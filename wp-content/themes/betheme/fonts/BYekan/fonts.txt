@@ -1,0 +1,1 @@
+@font-face{font-family:'Yekan';font-weight:normal;font-style:normal;src:url('BYekan.ttf') format('truetype');}

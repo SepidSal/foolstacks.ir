@@ -1,0 +1,32 @@
+/**=====================================================================*\
+|| #################################################################### ||
+|| # Package - Joomla Template Khalilan Khoram Framework FTM            ||
+|| ===================================================================  ||
+|| # Copyright (C)2007-2012  Khalilan Khoram CO. All Rights Reserved.   ||
+|| # license - PHP files are licensed under  GNU/GPL V2                 ||
+|| # for more information visit http://www.khalilan.com                 ||
+|| # websites - http://www.khalilan.com                                 ||
+|| # Production Date 1391/03/23 Coincided 2012/05/29                    ||
+|| #################################################################### ||
+\*=====================================================================**/ 
+/**=====================================================================*\
+|| Framework FTM Version 1.2                                            ||
+|| The new structural framework Tiam, working Powered by Khalilan Media || 
+\*=====================================================================**/
+
+@font-face {
+    font-family: 'yekan-joom';
+    src: url('yekan-joom.eot');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BYekan';
+    src: url('yekan-joom.eot') format('eot'),
+         url('yekan-joom.woff') format('woff'),
+         url('yekan-joom.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+

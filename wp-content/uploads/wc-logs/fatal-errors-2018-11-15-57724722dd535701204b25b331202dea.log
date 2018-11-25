@@ -1,0 +1,2 @@
+2018-11-15T19:51:02+00:00 CRITICAL Call to undefined method WP_Statistics_Updates::download_browscap() in /home/foolstac/public_html/wp-content/plugins/wp-statistics/includes/classes/class-wp-statistics-admin.php on line 635
+

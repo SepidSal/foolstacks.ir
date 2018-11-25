@@ -1,0 +1,16 @@
+
+@font-face {
+    font-family: 'Mj_Casablanca';
+    src: url('Mj_Casablanca.eot');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mj_Casablanca';
+    src: url('Mj_Casablanca.eot') format('eot'),
+         url('Mj_Casablanca.woff') format('woff'),
+         url('Mj_Casablanca.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

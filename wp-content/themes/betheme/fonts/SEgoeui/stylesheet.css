@@ -1,0 +1,32 @@
+/**=====================================================================*\
+|| #################################################################### ||
+|| # Package - Joomla Template Khtheme Khoram Framework FTM            ||
+|| ===================================================================  ||
+|| # Copyright (C)2007-2012  Khtheme Khoram CO. All Rights Reserved.   ||
+|| # license - PHP files are licensed under  GNU/GPL V2                 ||
+|| # for more information visit http://www.khtheme.com                 ||
+|| # websites - http://www.khtheme.com                                 ||
+|| # Production Date 1391/03/23 Coincided 2012/05/29                    ||
+|| #################################################################### ||
+\*=====================================================================**/ 
+/**=====================================================================*\
+|| Framework FTM Version 1.2                                            ||
+|| The new structural framework Tiam, working Powered by Khtheme Media || 
+\*=====================================================================**/
+
+@font-face {
+    font-family: 'SEgoeui';
+    src: url('SEgoeui-webfont.eot');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SEgoeui';
+    src: url('SEgoeui-webfont.eot') format('eot'),
+         url('SEgoeui-webfont.woff') format('woff'),
+         url('SEgoeui-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
